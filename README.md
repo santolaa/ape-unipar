@@ -19,6 +19,12 @@ O Git é amplamente utilizado como controle de versionamento devido a várias ra
 * Flexibilidade.
 
 4. Quais as vantagens do Git?
+O Git oferece várias vantagens significativas para desenvolvedores de software e equipes de desenvolvimento, o que contribuiu para sua ampla adoção. Algumas das principais vantagens do Git:
+* Controle de Versão Distribuído;
+* Eficiência e Desempenho;
+* Rastreamento de Alterações;
+* Ramificações e Mesclagens Eficientes;
+* Gratuito e de Código Aberto.
 
 5. Qual a importância da utilização do controle de versionamento no desenvolvimento de um software?
 
