@@ -35,3 +35,9 @@ O controle de versionamento desempenha um papel fundamental no desenvolvimento d
 * Experimentação e Desenvolvimento de Recursos: O versionamento permite que você crie ramificações (branches) do código para experimentar novos recursos ou fazer alterações significativas sem afetar a versão principal do software.
 
 6. Cite pelo menos três ferramentas de controle de versão e faça um breve detalhamento sobre cada uma delas.
+* Git:
+    * Descrição: O Git é um sistema de controle de versão distribuído amplamente utilizado e é conhecido por sua eficiência, flexibilidade e velocidade. Ele foi criado por Linus Torvalds e é uma escolha popular entre desenvolvedores de software em todo o mundo.
+* Subversion (SVN):
+    * Descrição: O Subversion é um sistema de controle de versão centralizado que é usado para rastrear alterações em arquivos e diretórios. Ele é uma alternativa ao Git e é especialmente popular em ambientes corporativos.
+* Mercurial:
+    * Descrição: O Mercurial é um sistema de controle de versão distribuído que oferece uma abordagem simples e fácil de usar. Ele é adequado para projetos de todos os tamanhos e é conhecido por sua simplicidade e desempenho.
