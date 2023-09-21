@@ -8,6 +8,7 @@ RA: 09029760
 O Git é um sistema de controle de versão distribuído amplamente utilizado na gestão de projetos de desenvolvimento de software. Também é conhecido por sua eficiência, flexibilidade e capacidade de lidar com projetos de qualquer tamanho, desde pequenos aplicativos até sistemas operacionais inteiros.
 
 2. O que é versionamento de software?
+Refere-se ao processo de rastrear e gerenciar as diferentes versões de um programa de software ao longo do tempo. Tem como objetivo principal controlar as alterações feitas no código-fonte e na estrutura do software, permitindo que os desenvolvedores acompanhem, gerenciem e documentem o histórico de desenvolvimento do software de maneira organizada.
 
 3. Por que utilizar o Git como controle de versionamento?
 
