@@ -1,0 +1,30 @@
+*{
+  font-family: sans-serif;
+}
+
+#main-nav {
+  text-align: center;
+}
+
+#main-body {
+  background-color: rgb(80, 175, 255);
+}
+
+#root {
+  width: 50%;
+  margin: auto;
+  padding: 50px;
+  border-radius: 10px;
+  align-items: center;
+}
+
+.button {
+  color: #3498db;
+  padding: 15px;
+  background-color: transparent;
+  border-color: gray;
+  border: 1px solid #3498db;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+}
