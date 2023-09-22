@@ -2,15 +2,16 @@
   font-family: sans-serif;
 }
 
-#main-nav {
+.nav {
   text-align: center;
 }
 
-#main-body {
-  background-color: rgb(80, 175, 255);
+.main {
+  background-size: cover;
+  background-image: url('../assets/background.jpg');
 }
 
-#root {
+.root {
   width: 50%;
   margin: auto;
   padding: 50px;
